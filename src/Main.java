@@ -33,7 +33,10 @@ public class Main {
 
         /*TimeConversion.timeConversion("07:05:45PM");*/
 
-
+        int[] arr=new int[]{10,20,30};
+        int[] arr2=new int[]{5,15,3};
+        int b=50;
+        ElectronicsShop.getMoneySpent(arr,arr2,b);
 
 
     }
