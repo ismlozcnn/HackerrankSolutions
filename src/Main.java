@@ -33,10 +33,15 @@ public class Main {
 
         /*TimeConversion.timeConversion("07:05:45PM");*/
 
-        int[] arr=new int[]{10,20,30};
+        /*int[] arr=new int[]{10,20,30};
         int[] arr2=new int[]{5,15,3};
         int b=50;
-        ElectronicsShop.getMoneySpent(arr,arr2,b);
+        ElectronicsShop.getMoneySpent(arr,arr2,b);*/
+
+        List<Integer> arr =new ArrayList<>(Arrays.asList(1,2,3));
+        System.out.println(AngryProfessor.angryProfessor(5,arr));
+
+
 
 
     }
