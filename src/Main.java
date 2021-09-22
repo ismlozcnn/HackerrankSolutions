@@ -48,8 +48,13 @@ public class Main {
         /*SherlockAndTheBeast.decentNumber(3);
         SherlockAndTheBeast.decentNumber(5);*/
 
-        UtopianTree.utopianTree(4);
-        UtopianTree.utopianTree(3);
+        /*UtopianTree.utopianTree(4);
+        UtopianTree.utopianTree(3);*/
+
+        List<Integer> arr =new ArrayList<>(Arrays.asList(1,2,3));
+        //SequenceEquation.permutationEquation(arr);
+        List<Integer> arr2 =new ArrayList<>(Arrays.asList(2,3,1));
+        System.out.println(SequenceEquation.permutationEquation(arr2));
 
 
     }
