@@ -38,10 +38,18 @@ public class Main {
         int b=50;
         ElectronicsShop.getMoneySpent(arr,arr2,b);*/
 
-        List<Integer> arr =new ArrayList<>(Arrays.asList(1,2,3));
-        System.out.println(AngryProfessor.angryProfessor(5,arr));
+        /*List<Integer> arr =new ArrayList<>(Arrays.asList(1,2,3));
+        System.out.println(AngryProfessor.angryProfessor(5,arr));*/
 
+        /*List<Integer> arr =new ArrayList<>(Arrays.asList(2,5,7,4,3,8,3,16));
+        int f=16;
+        System.out.println(UnfriendlyNumbers.solve(arr,f));*/
 
+        /*SherlockAndTheBeast.decentNumber(3);
+        SherlockAndTheBeast.decentNumber(5);*/
+
+        UtopianTree.utopianTree(4);
+        UtopianTree.utopianTree(3);
 
 
     }
