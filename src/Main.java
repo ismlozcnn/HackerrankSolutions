@@ -51,10 +51,13 @@ public class Main {
         /*UtopianTree.utopianTree(4);
         UtopianTree.utopianTree(3);*/
 
-        List<Integer> arr =new ArrayList<>(Arrays.asList(1,2,3));
+        /*List<Integer> arr =new ArrayList<>(Arrays.asList(1,2,3));
         //SequenceEquation.permutationEquation(arr);
         List<Integer> arr2 =new ArrayList<>(Arrays.asList(2,3,1));
-        System.out.println(SequenceEquation.permutationEquation(arr2));
+        System.out.println(SequenceEquation.permutationEquation(arr2))*/;
+
+        List<Integer> arr =new ArrayList<>(Arrays.asList(3,10,2,9));
+        BillDivision.bonAppetit(arr,1,12);
 
 
     }
