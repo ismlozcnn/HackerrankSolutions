@@ -59,12 +59,15 @@ public class Main {
         /*List<Integer> arr =new ArrayList<>(Arrays.asList(3,10,2,9));
         BillDivision.bonAppetit(arr,1,12);*/
 
-        System.out.println(FindDigits.findDigits(123456789));
+        /*System.out.println(FindDigits.findDigits(123456789));
         System.out.println(FindDigits.findDigits(114108089));
         System.out.println(FindDigits.findDigits(110110015));
         System.out.println(FindDigits.findDigits(121));
         System.out.println(FindDigits.findDigits(33));
-        System.out.println(FindDigits.findDigits(106108048));
+        System.out.println(FindDigits.findDigits(106108048));*/
+
+        List<Integer> arr=new ArrayList<>(Arrays.asList(5,4,4,2,2,8));
+        System.out.println(CutTheSticks.cutTheSticks(arr));
 
 
 
