@@ -66,9 +66,13 @@ public class Main {
         System.out.println(FindDigits.findDigits(33));
         System.out.println(FindDigits.findDigits(106108048));*/
 
-        List<Integer> arr=new ArrayList<>(Arrays.asList(5,4,4,2,2,8));
-        System.out.println(CutTheSticks.cutTheSticks(arr));
+        /*List<Integer> arr=new ArrayList<>(Arrays.asList(5,4,4,2,2,8));
+        System.out.println(CutTheSticks.cutTheSticks(arr));*/
 
+        DayOfProgrammer.dayOfProgrammer(2052);
+        DayOfProgrammer.dayOfProgrammer(1970);
+        DayOfProgrammer.dayOfProgrammer(1917);
+        DayOfProgrammer.dayOfProgrammer(1736);
 
 
     }
