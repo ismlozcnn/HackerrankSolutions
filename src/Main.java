@@ -69,11 +69,14 @@ public class Main {
         /*List<Integer> arr=new ArrayList<>(Arrays.asList(5,4,4,2,2,8));
         System.out.println(CutTheSticks.cutTheSticks(arr));*/
 
-        DayOfProgrammer.dayOfProgrammer(2052);
+        /*DayOfProgrammer.dayOfProgrammer(2052);
         DayOfProgrammer.dayOfProgrammer(1970);
         DayOfProgrammer.dayOfProgrammer(1917);
-        DayOfProgrammer.dayOfProgrammer(1736);
+        DayOfProgrammer.dayOfProgrammer(1736);*/
 
+        List<Integer> a=new ArrayList<>(Arrays.asList(2,3,6));
+        List<Integer> b=new ArrayList<>(Arrays.asList(42,84));
+        BetweenTwoSets.getTotalX(a,b);
 
     }
 
