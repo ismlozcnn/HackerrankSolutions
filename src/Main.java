@@ -74,9 +74,12 @@ public class Main {
         DayOfProgrammer.dayOfProgrammer(1917);
         DayOfProgrammer.dayOfProgrammer(1736);*/
 
-        List<Integer> a=new ArrayList<>(Arrays.asList(2,3,6));
+        /*List<Integer> a=new ArrayList<>(Arrays.asList(2,3,6));
         List<Integer> b=new ArrayList<>(Arrays.asList(42,84));
-        BetweenTwoSets.getTotalX(a,b);
+        BetweenTwoSets.getTotalX(a,b);*/
+
+        List<Integer> ar=new ArrayList<>(Arrays.asList(6,5,2,3,5,2,2,1,1,5,1,3,3,3,5)) ;
+        System.out.println(SalesByMatch.sockMerchant(ar.size(),ar));
 
     }
 
