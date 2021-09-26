@@ -78,8 +78,10 @@ public class Main {
         List<Integer> b=new ArrayList<>(Arrays.asList(42,84));
         BetweenTwoSets.getTotalX(a,b);*/
 
-        List<Integer> ar=new ArrayList<>(Arrays.asList(6,5,2,3,5,2,2,1,1,5,1,3,3,3,5)) ;
-        System.out.println(SalesByMatch.sockMerchant(ar.size(),ar));
+        /*List<Integer> ar=new ArrayList<>(Arrays.asList(6,5,2,3,5,2,2,1,1,5,1,3,3,3,5)) ;
+        System.out.println(SalesByMatch.sockMerchant(ar.size(),ar));*/
+
+        DrawingBook.pageCount(37455,29835);
 
     }
 
