@@ -81,7 +81,10 @@ public class Main {
         /*List<Integer> ar=new ArrayList<>(Arrays.asList(6,5,2,3,5,2,2,1,1,5,1,3,3,3,5)) ;
         System.out.println(SalesByMatch.sockMerchant(ar.size(),ar));*/
 
-        DrawingBook.pageCount(37455,29835);
+        /*DrawingBook.pageCount(37455,29835);*/
+
+        List<Integer> height=new ArrayList<>(Arrays.asList(1,2,3,5,4));
+        TheHurdleRace.hurdleRace(10,height);
 
     }
 
