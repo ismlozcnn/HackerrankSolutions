@@ -83,8 +83,11 @@ public class Main {
 
         /*DrawingBook.pageCount(37455,29835);*/
 
-        List<Integer> height=new ArrayList<>(Arrays.asList(1,2,3,5,4));
-        TheHurdleRace.hurdleRace(10,height);
+        /*List<Integer> height=new ArrayList<>(Arrays.asList(1,2,3,5,4));
+        TheHurdleRace.hurdleRace(10,height);*/
+
+        System.out.println(RepeatedString.repeatedString("aba",10));
+        System.out.println(RepeatedString.repeatedString("x",970770));
 
     }
 
