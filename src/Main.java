@@ -89,8 +89,10 @@ public class Main {
         /*System.out.println(RepeatedString.repeatedString("aba",10));
         System.out.println(RepeatedString.repeatedString("x",970770));*/
 
-        List<Integer> height=new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,15,14,1,2,5,7,8,9,1,2,2,3,4));
-        DesignerPdfViewer.designerPdfViewer(height,"ismail");
+        /*List<Integer> height=new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,15,14,1,2,5,7,8,9,1,2,2,3,4));
+        DesignerPdfViewer.designerPdfViewer(height,"ismail");*/
+
+        ViralAdvertising.viralAdvertising(15);
 
     }
 
