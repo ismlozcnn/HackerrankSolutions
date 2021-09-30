@@ -94,8 +94,11 @@ public class Main {
 
         /*ViralAdvertising.viralAdvertising(15);*/
 
-        int t=SaveThePrisoner.saveThePrisoner(7,19,2);
-        int k=SaveThePrisoner.saveThePrisoner(3,7,3);
+        /*int t=SaveThePrisoner.saveThePrisoner(7,19,2);
+        int k=SaveThePrisoner.saveThePrisoner(3,7,3);*/
+
+        List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,3,4,4));
+        EqualizeTheArray.equalizeArray(arr);
 
 
     }
