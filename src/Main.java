@@ -92,7 +92,11 @@ public class Main {
         /*List<Integer> height=new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,10,11,12,15,14,1,2,5,7,8,9,1,2,2,3,4));
         DesignerPdfViewer.designerPdfViewer(height,"ismail");*/
 
-        ViralAdvertising.viralAdvertising(15);
+        /*ViralAdvertising.viralAdvertising(15);*/
+
+        int t=SaveThePrisoner.saveThePrisoner(7,19,2);
+        int k=SaveThePrisoner.saveThePrisoner(3,7,3);
+
 
     }
 
