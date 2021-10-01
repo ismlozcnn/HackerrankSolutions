@@ -100,8 +100,13 @@ public class Main {
         /*List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,3,4,4));
         EqualizeTheArray.equalizeArray(arr);*/
 
-        int[] c=new int[]{1 ,1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1};
-        int m=JumpingOnTheClouds.jumpingOnClouds(c,19);
+        /*int[] c=new int[]{1 ,1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1};
+        int m=JumpingOnTheClouds.jumpingOnClouds(c,19);*/
+
+        List<Integer> c=new ArrayList<>(Arrays.asList(0 ,0 ,1 ,0 ,0 ,1 ,0));
+        List<Integer> c2=new ArrayList<>(Arrays.asList(0 ,0 ,0 ,1 ,0 ,0));
+        JumpingClouds.jumpingOnClouds(c);
+        JumpingClouds.jumpingOnClouds(c2);
 
 
     }
