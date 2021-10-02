@@ -103,11 +103,13 @@ public class Main {
         /*int[] c=new int[]{1 ,1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1};
         int m=JumpingOnTheClouds.jumpingOnClouds(c,19);*/
 
-        List<Integer> c=new ArrayList<>(Arrays.asList(0 ,0 ,1 ,0 ,0 ,1 ,0));
+        /*List<Integer> c=new ArrayList<>(Arrays.asList(0 ,0 ,1 ,0 ,0 ,1 ,0));
         List<Integer> c2=new ArrayList<>(Arrays.asList(0 ,0 ,0 ,1 ,0 ,0));
         JumpingClouds.jumpingOnClouds(c);
-        JumpingClouds.jumpingOnClouds(c2);
+        JumpingClouds.jumpingOnClouds(c2);*/
 
+        SherlockAndSquares.squares(4,4);
+        SherlockAndSquares.squares(100,1000);
 
     }
 
