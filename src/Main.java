@@ -108,8 +108,10 @@ public class Main {
         JumpingClouds.jumpingOnClouds(c);
         JumpingClouds.jumpingOnClouds(c2);*/
 
-        SherlockAndSquares.squares(4,4);
-        SherlockAndSquares.squares(100,1000);
+        /*int k=SherlockAndSquares.squares(4,4);
+        int k2=SherlockAndSquares.squares(100,1000);*/
+
+        AppendAndDelete.appendAndDelete("y","yu",2);
 
     }
 
