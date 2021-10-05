@@ -117,8 +117,10 @@ public class Main {
         List<Integer> brr=new ArrayList<>(Arrays.asList(203 ,204 ,204 ,205 ,206 ,207 ,205 ,208 ,203 ,206 ,205 ,206 ,204));
         MissingNumbers.missingNumbers(arr,brr);*/
 
-        List<Integer> e=new ArrayList<>(Arrays.asList(1,3,4,1,7,7));
-        MinimumDistances.minimumDistances(e);
+        /*List<Integer> e=new ArrayList<>(Arrays.asList(1,3,4,1,7,7));
+        MinimumDistances.minimumDistances(e);*/
+
+        int t=LibraryFine.libraryFine(10,6,2021,18,6,2021);
 
     }
 
