@@ -122,8 +122,10 @@ public class Main {
 
         /*int t=LibraryFine.libraryFine(10,6,2021,18,6,2021);*/
 
-        List<String> topic=new ArrayList<>(Arrays.asList("10101","11100","11010", "00101"));
-        AcmIcpc.acmTeam(topic);
+        /*List<String> topic=new ArrayList<>(Arrays.asList("10101","11100","11010", "00101"));
+        AcmIcpc.acmTeam(topic);*/
+
+        System.out.println(TaumAndBday.taumBday(27984,1402,619246,615589,247954));
 
     }
 
