@@ -120,7 +120,10 @@ public class Main {
         /*List<Integer> e=new ArrayList<>(Arrays.asList(1,3,4,1,7,7));
         MinimumDistances.minimumDistances(e);*/
 
-        int t=LibraryFine.libraryFine(10,6,2021,18,6,2021);
+        /*int t=LibraryFine.libraryFine(10,6,2021,18,6,2021);*/
+
+        List<String> topic=new ArrayList<>(Arrays.asList("10101","11100","11010", "00101"));
+        AcmIcpc.acmTeam(topic);
 
     }
 
