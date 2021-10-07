@@ -125,7 +125,9 @@ public class Main {
         /*List<String> topic=new ArrayList<>(Arrays.asList("10101","11100","11010", "00101"));
         AcmIcpc.acmTeam(topic);*/
 
-        System.out.println(TaumAndBday.taumBday(27984,1402,619246,615589,247954));
+        //System.out.println(TaumAndBday.taumBday(27984,1402,619246,615589,247954));
+
+        IntroTutorialChallenge.introTutorial(10,new ArrayList<>(Arrays.asList(1,2,3,4,10)));
 
     }
 
