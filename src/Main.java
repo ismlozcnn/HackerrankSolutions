@@ -127,7 +127,9 @@ public class Main {
 
         //System.out.println(TaumAndBday.taumBday(27984,1402,619246,615589,247954));
 
-        IntroTutorialChallenge.introTutorial(10,new ArrayList<>(Arrays.asList(1,2,3,4,10)));
+        //IntroTutorialChallenge.introTutorial(10,new ArrayList<>(Arrays.asList(1,2,3,4,10)));
+
+        ModifiedKaprekarNumbers.kaprekarNumbers(1,99999);
 
     }
 
