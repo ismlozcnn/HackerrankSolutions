@@ -129,7 +129,10 @@ public class Main {
 
         //IntroTutorialChallenge.introTutorial(10,new ArrayList<>(Arrays.asList(1,2,3,4,10)));
 
-        ModifiedKaprekarNumbers.kaprekarNumbers(1,99999);
+        //ModifiedKaprekarNumbers.kaprekarNumbers(1,99999);
+
+        List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,4,5,7,8,10));
+        int k=BeautifulTriplets.beautifulTriplets(3,arr);
 
     }
 
