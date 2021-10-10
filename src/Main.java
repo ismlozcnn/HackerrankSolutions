@@ -134,9 +134,11 @@ public class Main {
         /*List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,4,5,7,8,10));
         int k=BeautifulTriplets.beautifulTriplets(3,arr);*/
 
-        System.out.println(ChocolateFeast.chocolateFeast(6,2,2));
-        System.out.println(ChocolateFeast.chocolateFeast(10,2,5));
+        /*System.out.println(ChocolateFeast.chocolateFeast(6,2,2));
+        System.out.println(ChocolateFeast.chocolateFeast(10,2,5));*/
 
+        List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,3,4,7,8));
+        IceCreamParlor.iceCreamParlor(10,arr);
     }
 
 
