@@ -137,8 +137,17 @@ public class Main {
         /*System.out.println(ChocolateFeast.chocolateFeast(6,2,2));
         System.out.println(ChocolateFeast.chocolateFeast(10,2,5));*/
 
-        List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,3,4,7,8));
-        IceCreamParlor.iceCreamParlor(10,arr);
+        /*List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,3,4,7,8));
+        IceCreamParlor.iceCreamParlor(10,arr);*/
+
+        List<Integer> width=new ArrayList<>(Arrays.asList(2,3,2,1));
+        List<List<Integer>> cases=new ArrayList<>();
+        List<Integer> i=new ArrayList<>(Arrays.asList(1,2));
+        cases.add(i);
+        List<Integer> j=new ArrayList<>(Arrays.asList(2,4));
+        cases.add(j);
+        ServiceLane.serviceLane(4,cases,width);
+
     }
 
 
