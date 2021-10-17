@@ -140,13 +140,22 @@ public class Main {
         /*List<Integer> arr=new ArrayList<>(Arrays.asList(1,2,3,4,7,8));
         IceCreamParlor.iceCreamParlor(10,arr);*/
 
-        List<Integer> width=new ArrayList<>(Arrays.asList(2,3,2,1));
+        /*List<Integer> width=new ArrayList<>(Arrays.asList(2,3,2,1));
         List<List<Integer>> cases=new ArrayList<>();
         List<Integer> i=new ArrayList<>(Arrays.asList(1,2));
         cases.add(i);
         List<Integer> j=new ArrayList<>(Arrays.asList(2,4));
         cases.add(j);
-        ServiceLane.serviceLane(4,cases,width);
+        ServiceLane.serviceLane(4,cases,width);*/
+
+
+        /*MarsExploration.marsExploration("SOSOOSOSOSOSOSSOSOSOSOSOSOS");
+        MarsExploration.marsExploration("SOSSOSSOS");*/
+
+        LisaWorkbook.workbook(15,20,new ArrayList<>(Arrays.asList(1,8,19,15,2,29,3,2,25,2,19,26,17,33,22)));
+        LisaWorkbook.workbook(5,3,new ArrayList<>(Arrays.asList(4,2,6,1,10)));
+
+
 
     }
 
