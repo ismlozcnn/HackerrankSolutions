@@ -152,8 +152,15 @@ public class Main {
         /*MarsExploration.marsExploration("SOSOOSOSOSOSOSSOSOSOSOSOSOS");
         MarsExploration.marsExploration("SOSSOSSOS");*/
 
-        LisaWorkbook.workbook(15,20,new ArrayList<>(Arrays.asList(1,8,19,15,2,29,3,2,25,2,19,26,17,33,22)));
-        LisaWorkbook.workbook(5,3,new ArrayList<>(Arrays.asList(4,2,6,1,10)));
+        /*LisaWorkbook.workbook(15,20,new ArrayList<>(Arrays.asList(1,8,19,15,2,29,3,2,25,2,19,26,17,33,22)));
+        LisaWorkbook.workbook(5,3,new ArrayList<>(Arrays.asList(4,2,6,1,10)));*/
+
+        //FairRotations.fairRations(new ArrayList<>(Arrays.asList(2,3,4,5,6)));
+        //FairRotations.fairRations(new ArrayList<>(Arrays.asList(4,5,7,10)));
+        //FairRotations.fairRations(new ArrayList<>(Arrays.asList(4,5,7,9,12,14)));
+        //FairRotations.fairRations(new ArrayList<>(Arrays.asList(4,5,7,9,11,14)));
+
+        CamelCase.camelcase("oneTwoThree");
 
 
 
