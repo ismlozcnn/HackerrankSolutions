@@ -162,8 +162,10 @@ public class Main {
 
         //CamelCase.camelcase("oneTwoThree");
 
-        int[] arr=new int[]{0};
-        FlatlandSpace.flatlandSpaceStations(100,arr);
+        /*int[] arr=new int[]{0};
+        FlatlandSpace.flatlandSpaceStations(100,arr);*/
+
+        System.out.println(ManasaAndStones.stones(3,1,2));
 
 
 
