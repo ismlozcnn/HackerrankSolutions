@@ -165,8 +165,20 @@ public class Main {
         /*int[] arr=new int[]{0};
         FlatlandSpace.flatlandSpaceStations(100,arr);*/
 
-        System.out.println(ManasaAndStones.stones(3,1,2));
+        //System.out.println(ManasaAndStones.stones(3,1,2));
 
+        /*System.out.println(HappyLadyBugs.happyLadybugs("ENVZEZVVNVZZN"));
+        System.out.println(HappyLadyBugs.happyLadybugs("_S_RGATCCRM_W_U_TQIYL_DUWKPOV_HJMH_C_W_LPW_UQH_LSR___RJRT__VHT_DYWICCJUY_HUT_GHVADCTCCSPGUEDMMRWR"));
+        System.out.println(HappyLadyBugs.happyLadybugs("WH_PH_AHGMBTDONOHLPSHT_U_CRTK_LQM__PO__QMATNSOPOAHNTHH_L__OHHLUKOH_OSGN__HOUTKHHK_HHHQWHBTUGRKBLHHNS"));
+        System.out.println(HappyLadyBugs.happyLadybugs("MHUE_GMBIGAARTM_GNUUMGNG_MIRAMAN_TGITIMGMG"));
+        System.out.println(HappyLadyBugs.happyLadybugs("UMBMBXOUBBBBUMOXMMMBBMM"));
+        System.out.println(HappyLadyBugs.happyLadybugs("EZPIYCNVPO__V_PMHM_P_NYMCMHOEESNPCMHVZOHM_PP_PE_EVYM_PPOPV"));
+        System.out.println(HappyLadyBugs.happyLadybugs("DUNW_FBCJ_JIT_UT_IUNUTJI_JPFDWBUUCFJPF_CDF"));
+        System.out.println(HappyLadyBugs.happyLadybugs("TU_GFEL_E_T_WY_UIK_GUUWYUUKIT_YKISGFTUK_LE_S_K__TTEYTWE_K"));
+        System.out.println(HappyLadyBugs.happyLadybugs("_CTIFA_BFECIEI___T_BCAC_"));
+        System.out.println(HappyLadyBugs.happyLadybugs("NGJNOYKY_OJYUZEUVH_ISJRJUKUYKJYJVJHHYV_JURJZO_G_IKJVVNGSVJSUOYUVO_YYI"));
+        System.out.println(HappyLadyBugs.happyLadybugs("RBY_YBR"));
+        System.out.println(HappyLadyBugs.happyLadybugs("AABBC"));*/
 
 
     }
