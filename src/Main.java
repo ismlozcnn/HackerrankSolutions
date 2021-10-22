@@ -180,9 +180,9 @@ public class Main {
         System.out.println(HappyLadyBugs.happyLadybugs("RBY_YBR"));
         System.out.println(HappyLadyBugs.happyLadybugs("AABBC"));*/
 
-        //StrangeCounter.strangeCounter(4);
-//        StrangeCounter.strangeCounter(9);
-//        StrangeCounter.strangeCounter(17);
+        StrangeCounter.strangeCounter(4);
+        StrangeCounter.strangeCounter(9);
+        StrangeCounter.strangeCounter(17);
 
         List<Integer> arr=new ArrayList<>(Arrays.asList(2,3,4,5,6,7,8,9,10,1));
         InsertionSort.insertionSort1(5,arr);
