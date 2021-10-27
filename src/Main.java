@@ -187,7 +187,7 @@ public class Main {
         /*List<Integer> arr=new ArrayList<>(Arrays.asList(2,3,4,5,6,7,8,9,10,1));
         InsertionSort.insertionSort1(5,arr);*/
 
-        StrongPassword.minimumNumber(7,"AUzs-nV");
+        //StrongPassword.minimumNumber(7,"AUzs-nV");
 
 
 
