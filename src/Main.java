@@ -191,7 +191,7 @@ public class Main {
 
         //InsertionSort2.insertionSort2(6,new ArrayList<>(Arrays.asList(1,4,3,5,6,2)));
 
-        MiniMaxSum.miniMaxSum(new ArrayList<>(Arrays.asList(256741038, 623958417 ,467905213, 714532089, 938071625)));
+        //MiniMaxSum.miniMaxSum(new ArrayList<>(Arrays.asList(256741038, 623958417 ,467905213, 714532089, 938071625)));
 
 
 
