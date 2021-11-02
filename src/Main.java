@@ -189,6 +189,8 @@ public class Main {
 
         //StrongPassword.minimumNumber(7,"AUzs-nV");
 
+        InsertionSort2.insertionSort2(6,new ArrayList<>(Arrays.asList(1,4,3,5,6,2)));
+
 
 
 
