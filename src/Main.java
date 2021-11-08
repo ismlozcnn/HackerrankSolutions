@@ -148,7 +148,6 @@ public class Main {
         cases.add(j);
         ServiceLane.serviceLane(4,cases,width);*/
 
-
         /*MarsExploration.marsExploration("SOSOOSOSOSOSOSSOSOSOSOSOSOS");
         MarsExploration.marsExploration("SOSSOSSOS");*/
 
@@ -160,10 +159,10 @@ public class Main {
         //FairRotations.fairRations(new ArrayList<>(Arrays.asList(4,5,7,9,12,14)));
         //FairRotations.fairRations(new ArrayList<>(Arrays.asList(4,5,7,9,11,14)));*/
 
-        //CamelCase.camelcase("oneTwoThree");
-
         /*int[] arr=new int[]{0};
         FlatlandSpace.flatlandSpaceStations(100,arr);*/
+
+        //CamelCase.camelcase("oneTwoThree");
 
         //System.out.println(ManasaAndStones.stones(3,1,2));
 
@@ -193,11 +192,15 @@ public class Main {
 
         //MiniMaxSum.miniMaxSum(new ArrayList<>(Arrays.asList(256741038, 623958417 ,467905213, 714532089, 938071625)));
 
-        List<List<Integer>> arr=new ArrayList<>();
+        /*List<List<Integer>> arr=new ArrayList<>();
         arr.add(new ArrayList<>(Arrays.asList(1,2,3)));
         arr.add(new ArrayList<>(Arrays.asList(4,5,6)));
         arr.add(new ArrayList<>(Arrays.asList(7,8,9)));
-        System.out.println(DiagonalDifference.diagonalDifference(arr));
+        System.out.println(DiagonalDifference.diagonalDifference(arr));*/
+
+
+
+
 
 
 
