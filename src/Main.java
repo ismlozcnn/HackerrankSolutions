@@ -198,6 +198,8 @@ public class Main {
         arr.add(new ArrayList<>(Arrays.asList(7,8,9)));
         System.out.println(DiagonalDifference.diagonalDifference(arr));*/
 
+        System.out.println(CaesarCipher.caesarCipher("middle-Outz",2));
+        System.out.println(CaesarCipher.caesarCipher("www.abc.xy",87));
 
 
 
