@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         /*CatsAndMouse.catAndMouse(1,2,5);*/
 
@@ -201,14 +201,16 @@ public class Main {
         /*System.out.println(CaesarCipher.caesarCipher("middle-Outz",2));
         System.out.println(CaesarCipher.caesarCipher("www.abc.xy",87));*/
 
-        System.out.println(CavityMap.cavityMap(new ArrayList<>(Arrays.asList("1112","1912","1892","1234"))));
+        /*System.out.println(CavityMap.cavityMap(new ArrayList<>(Arrays.asList("1112","1912","1892","1234"))));
         System.out.println(CavityMap.cavityMap(new ArrayList<>(Arrays.asList("179443854","961621369","164139922",
                 "968633951",
                 "812882578",
                 "257829163",
                 "812438597",
                 "176656233",
-                "485773814"))));
+                "485773814"))));*/
+
+        RunningTimeofAlgorithms.runningTime(new ArrayList<>(Arrays.asList(2,1,3,1,2)));
 
 
 
