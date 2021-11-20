@@ -24,7 +24,7 @@ public class CaesarCipher {
             }
 
         }
-        
+
         return String.valueOf(cc);
     }
 }

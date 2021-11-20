@@ -198,8 +198,20 @@ public class Main {
         arr.add(new ArrayList<>(Arrays.asList(7,8,9)));
         System.out.println(DiagonalDifference.diagonalDifference(arr));*/
 
-        System.out.println(CaesarCipher.caesarCipher("middle-Outz",2));
-        System.out.println(CaesarCipher.caesarCipher("www.abc.xy",87));
+        /*System.out.println(CaesarCipher.caesarCipher("middle-Outz",2));
+        System.out.println(CaesarCipher.caesarCipher("www.abc.xy",87));*/
+
+        System.out.println(CavityMap.cavityMap(new ArrayList<>(Arrays.asList("1112","1912","1892","1234"))));
+        System.out.println(CavityMap.cavityMap(new ArrayList<>(Arrays.asList("179443854","961621369","164139922",
+                "968633951",
+                "812882578",
+                "257829163",
+                "812438597",
+                "176656233",
+                "485773814"))));
+
+
+
 
 
 
