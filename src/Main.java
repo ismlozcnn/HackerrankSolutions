@@ -1,7 +1,5 @@
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Main {
 
@@ -210,16 +208,18 @@ public class Main {
                 "176656233",
                 "485773814"))));*/
 
-        RunningTimeofAlgorithms.runningTime(new ArrayList<>(Arrays.asList(2,1,3,1,2)));
+        //RunningTimeofAlgorithms.runningTime(new ArrayList<>(Arrays.asList(2,1,3,1,2)));
 
-
-
-
-
-
-
-
-
+        System.out.println(HackerrankInString.hackerrankInString("hackerworld"));
+        System.out.println(HackerrankInString.hackerrankInString("hackerrank"));
+        System.out.println(HackerrankInString.hackerrankInString("hackeronek"));
+        System.out.println(HackerrankInString.hackerrankInString("abcdefghijklmnopqrstuvwxyz"));
+        System.out.println(HackerrankInString.hackerrankInString("rhackerank"));
+        System.out.println(HackerrankInString.hackerrankInString("ahankercka"));
+        System.out.println(HackerrankInString.hackerrankInString("hacakaeararanaka"));
+        System.out.println(HackerrankInString.hackerrankInString("hhhhaaaaackkkkerrrrrrrrank"));
+        System.out.println(HackerrankInString.hackerrankInString("crackerhackerknar"));
+        System.out.println(HackerrankInString.hackerrankInString("crackerhackerknar"));
 
 
     }
