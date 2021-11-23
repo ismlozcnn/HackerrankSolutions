@@ -210,6 +210,7 @@ public class Main {
 
         //RunningTimeofAlgorithms.runningTime(new ArrayList<>(Arrays.asList(2,1,3,1,2)));
 
+        /*
         System.out.println(HackerrankInString.hackerrankInString("hackerworld"));
         System.out.println(HackerrankInString.hackerrankInString("hackerrank"));
         System.out.println(HackerrankInString.hackerrankInString("hackeronek"));
@@ -220,6 +221,9 @@ public class Main {
         System.out.println(HackerrankInString.hackerrankInString("hhhhaaaaackkkkerrrrrrrrank"));
         System.out.println(HackerrankInString.hackerrankInString("crackerhackerknar"));
         System.out.println(HackerrankInString.hackerrankInString("crackerhackerknar"));
+        */
+
+        Pangrams.pangrams("We promptly judged antique ivory buckles for the prize");
 
 
     }
