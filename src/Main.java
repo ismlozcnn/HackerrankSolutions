@@ -223,7 +223,10 @@ public class Main {
         System.out.println(HackerrankInString.hackerrankInString("crackerhackerknar"));
         */
 
-        Pangrams.pangrams("We promptly judged antique ivory buckles for the prize");
+        //Pangrams.pangrams("We promptly judged antique ivory buckles for the prize");
+
+        System.out.println(WeightedUniformStrings.weightedUniformStrings("abccddde",new ArrayList<>(Arrays.asList(1,3,12,5,9,10))));
+        //System.out.println(WeightedUniformStrings.weightedUniformStrings("aaabbbbcccddd",new ArrayList<>(Arrays.asList(9,7,8,12,5))));
 
 
     }
