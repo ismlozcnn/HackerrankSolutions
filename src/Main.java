@@ -230,7 +230,17 @@ public class Main {
 
         //ProblemSolvingBasic.findSubstring("azerdii",5);
 
-        FibonacciModified.fibonacciModified(0,1,10);
+        //FibonacciModified.fibonacciModified(0,1,10);
+
+        //TurkcellCodility.solution("zza");
+
+        /*int[] a={-1,1,-2,2};
+        TurkcellCodility.solution2(a);
+*/
+
+        TwoStrings.twoStrings("asdads","asdasdad");
+
+
 
 
     }
