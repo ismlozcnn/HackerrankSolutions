@@ -240,7 +240,7 @@ public class Main {
 
         TwoStrings.twoStrings("asdads","asdasdad");
 
-
+        FunnyStrings.funnyString("abuzerkadayıf");
 
 
     }
