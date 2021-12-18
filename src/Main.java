@@ -238,9 +238,15 @@ public class Main {
         TurkcellCodility.solution2(a);
 */
 
-        TwoStrings.twoStrings("asdads","asdasdad");
+        //TwoStrings.twoStrings("asdads","asdasdad");
 
-        FunnyStrings.funnyString("abuzerkadayıf");
+        //FunnyStrings.funnyString("abuzerkadayıf");
+
+        AlternatingCharacters.alternatingCharacters("AABBAAA");
+
+
+
+
 
 
     }
