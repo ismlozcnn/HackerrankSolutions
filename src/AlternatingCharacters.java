@@ -12,8 +12,6 @@ public class AlternatingCharacters {
                 sum++;
             }
         }
-
-
         return sum;
     }
 }

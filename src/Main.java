@@ -242,7 +242,9 @@ public class Main {
 
         //FunnyStrings.funnyString("abuzerkadayıf");
 
-        AlternatingCharacters.alternatingCharacters("AABBAAA");
+        //AlternatingCharacters.alternatingCharacters("AABBAAA");
+
+        GameOfThrones.gameOfThrones("aaabbbb");
 
 
 
