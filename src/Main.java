@@ -244,7 +244,9 @@ public class Main {
 
         //AlternatingCharacters.alternatingCharacters("AABBAAA");
 
-        GameOfThrones.gameOfThrones("aaabbbb");
+//        GameOfThrones.gameOfThrones("aaabbbb");
+
+        Quicksort1.quickSort(new ArrayList<>(Arrays.asList(1,2,3,4)));
 
 
 
