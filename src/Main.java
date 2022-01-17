@@ -246,7 +246,9 @@ public class Main {
 
 //        GameOfThrones.gameOfThrones("aaabbbb");
 
-        Quicksort1.quickSort(new ArrayList<>(Arrays.asList(1,2,3,4)));
+//        Quicksort1.quickSort(new ArrayList<>(Arrays.asList(1,2,3,4)));
+
+        CountingSort2.countingSort(new ArrayList<>(Arrays.asList(19,10,12,10,24,25,22)));
 
 
 
