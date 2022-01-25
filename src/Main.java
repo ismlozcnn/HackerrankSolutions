@@ -248,7 +248,10 @@ public class Main {
 
 //        Quicksort1.quickSort(new ArrayList<>(Arrays.asList(1,2,3,4)));
 
-        CountingSort2.countingSort(new ArrayList<>(Arrays.asList(19,10,12,10,24,25,22)));
+        //CountingSort2.countingSort(new ArrayList<>(Arrays.asList(19,10,12,10,24,25,22)));
+
+        SeperateTheNumbers.separateNumbers("91011");
+        SeperateTheNumbers.separateNumbers("99100");
 
 
 
