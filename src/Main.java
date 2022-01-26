@@ -250,8 +250,10 @@ public class Main {
 
         //CountingSort2.countingSort(new ArrayList<>(Arrays.asList(19,10,12,10,24,25,22)));
 
-        SeperateTheNumbers.separateNumbers("91011");
-        SeperateTheNumbers.separateNumbers("99100");
+        /*SeperateTheNumbers.separateNumbers("91011");
+        SeperateTheNumbers.separateNumbers("99100");*/
+
+        Encryption.encryption("iffactsdontfittotheorychangethefacts");
 
 
 
