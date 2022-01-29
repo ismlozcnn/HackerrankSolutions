@@ -253,7 +253,9 @@ public class Main {
         /*SeperateTheNumbers.separateNumbers("91011");
         SeperateTheNumbers.separateNumbers("99100");*/
 
-        Encryption.encryption("iffactsdontfittotheorychangethefacts");
+        //Encryption.encryption("iffactsdontfittotheorychangethefacts");
+
+        TheTimeWords.timeInWords(1,1);
 
 
 
