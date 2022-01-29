@@ -255,7 +255,9 @@ public class Main {
 
         //Encryption.encryption("iffactsdontfittotheorychangethefacts");
 
-        TheTimeWords.timeInWords(1,1);
+        //TheTimeWords.timeInWords(1,1);
+
+        MarcCakeWalk.marcsCakewalk(new ArrayList<>(Arrays.asList(1,5,7,9)));
 
 
 
