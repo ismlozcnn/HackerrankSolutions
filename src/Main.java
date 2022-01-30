@@ -257,8 +257,11 @@ public class Main {
 
         //TheTimeWords.timeInWords(1,1);
 
-        MarcCakeWalk.marcsCakewalk(new ArrayList<>(Arrays.asList(1,5,7,9)));
+        //MarcCakeWalk.marcsCakewalk(new ArrayList<>(Arrays.asList(1,5,7,9)));
 
+        GridChallenge.gridChallenge(new ArrayList<>(Arrays.asList("abc","lmp","qrt")));
+        GridChallenge.gridChallenge(new ArrayList<>(Arrays.asList("mpxz","abcd","wlmf")));
+        GridChallenge.gridChallenge(new ArrayList<>(Arrays.asList("abc","hjk","mpq","rtv")));
 
 
 
