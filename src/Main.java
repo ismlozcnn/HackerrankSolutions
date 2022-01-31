@@ -259,11 +259,13 @@ public class Main {
 
         //MarcCakeWalk.marcsCakewalk(new ArrayList<>(Arrays.asList(1,5,7,9)));
 
-        GridChallenge.gridChallenge(new ArrayList<>(Arrays.asList("abc","lmp","qrt")));
+        /*GridChallenge.gridChallenge(new ArrayList<>(Arrays.asList("abc","lmp","qrt")));
         GridChallenge.gridChallenge(new ArrayList<>(Arrays.asList("mpxz","abcd","wlmf")));
         GridChallenge.gridChallenge(new ArrayList<>(Arrays.asList("abc","hjk","mpq","rtv")));
+*/
 
-
+        /*RecursiveDigitSum.superDigit("148",3);
+        RecursiveDigitSum.superDigit("3546630947312051453014172159647935984478824945973141333062252613718025688716704470547449723886626736",100000);*/
 
 
 
