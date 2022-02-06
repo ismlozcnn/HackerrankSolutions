@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Main {
 
@@ -266,6 +267,14 @@ public class Main {
 
         /*RecursiveDigitSum.superDigit("148",3);
         RecursiveDigitSum.superDigit("3546630947312051453014172159647935984478824945973141333062252613718025688716704470547449723886626736",100000);*/
+
+
+        List<List<Integer>> container=new ArrayList<>();
+        container.add(new ArrayList<>(Arrays.asList(97612619 ,934920795 ,998879231 ,999926463)));
+        container.add(new ArrayList<>(Arrays.asList(960369681 ,997828120, 999792735 ,979622676)));
+        container.add(new ArrayList<>(Arrays.asList(999013654 ,998634077, 997988323 ,958769423)));
+        container.add(new ArrayList<>(Arrays.asList(997409523, 999301350, 940952923 ,993020546)));
+        System.out.println(OrganizingContainersBalls.organizingContainers(container));
 
 
 
