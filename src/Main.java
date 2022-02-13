@@ -276,6 +276,16 @@ public class Main {
         container.add(new ArrayList<>(Arrays.asList(997409523, 999301350, 940952923 ,993020546)));
         System.out.println(OrganizingContainersBalls.organizingContainers(container));*/
 
+        System.out.println(AbsolutePermutation.absolutePermutation(10,0));
+        System.out.println(AbsolutePermutation.absolutePermutation(10,1));
+        System.out.println(AbsolutePermutation.absolutePermutation(7,0));
+        System.out.println(AbsolutePermutation.absolutePermutation(10,9));
+        System.out.println(AbsolutePermutation.absolutePermutation(9,0));
+        System.out.println(AbsolutePermutation.absolutePermutation(10,3));
+        System.out.println(AbsolutePermutation.absolutePermutation(8,2));
+        System.out.println(AbsolutePermutation.absolutePermutation(8,0));
+        System.out.println(AbsolutePermutation.absolutePermutation(7,0));
+        System.out.println(AbsolutePermutation.absolutePermutation(10,1));
 
 
 
