@@ -287,7 +287,11 @@ public class Main {
         System.out.println(AbsolutePermutation.absolutePermutation(7,0));
         System.out.println(AbsolutePermutation.absolutePermutation(10,1));*/
 
-        ExtraLongFactorials.extraLongFactorials(20);
+        //ExtraLongFactorials.extraLongFactorials(20);
+
+        List<Integer> ranked=new ArrayList<>(Arrays.asList(100,90,90,80,75,60));
+        List<Integer> player=new ArrayList<>(Arrays.asList(50,65,77,90,102));
+        System.out.println(ClimbingTheLeaderboard.climbingLeaderboard(ranked,player));
 
 
 
