@@ -289,9 +289,11 @@ public class Main {
 
         //ExtraLongFactorials.extraLongFactorials(20);
 
-        List<Integer> ranked=new ArrayList<>(Arrays.asList(100,90,90,80,75,60));
+        /*List<Integer> ranked=new ArrayList<>(Arrays.asList(100,90,90,80,75,60));
         List<Integer> player=new ArrayList<>(Arrays.asList(50,65,77,90,102));
-        System.out.println(ClimbingTheLeaderboard.climbingLeaderboard(ranked,player));
+        System.out.println(ClimbingTheLeaderboard.climbingLeaderboard(ranked,player));*/
+
+        Gemstones.gemstones(new ArrayList<>(Arrays.asList("abc","bsa","bc")));
 
 
 
