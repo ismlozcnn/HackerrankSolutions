@@ -1,7 +1,3 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -293,7 +289,9 @@ public class Main {
         List<Integer> player=new ArrayList<>(Arrays.asList(50,65,77,90,102));
         System.out.println(ClimbingTheLeaderboard.climbingLeaderboard(ranked,player));*/
 
-        Gemstones.gemstones(new ArrayList<>(Arrays.asList("abc","bsa","bc")));
+        //Gemstones.gemstones(new ArrayList<>(Arrays.asList("abc","bsa","bc")));
+
+        BeautifulBinaryString.beautifulBinaryString("01100");
 
 
 
