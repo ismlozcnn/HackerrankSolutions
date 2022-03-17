@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -291,7 +294,9 @@ public class Main {
 
         //Gemstones.gemstones(new ArrayList<>(Arrays.asList("abc","bsa","bc")));
 
-        BeautifulBinaryString.beautifulBinaryString("01100");
+        //BeautifulBinaryString.beautifulBinaryString("01100");
+
+        ClosestNumber.closestNumbers(new ArrayList<>(Arrays.asList(2,3,4,5)));
 
 
 
