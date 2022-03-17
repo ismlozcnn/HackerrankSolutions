@@ -296,7 +296,9 @@ public class Main {
 
         //BeautifulBinaryString.beautifulBinaryString("01100");
 
-        ClosestNumber.closestNumbers(new ArrayList<>(Arrays.asList(2,3,4,5)));
+        //ClosestNumber.closestNumbers(new ArrayList<>(Arrays.asList(2,3,4,5)));
+
+        Anagram.anagram("aaabbb");
 
 
 
