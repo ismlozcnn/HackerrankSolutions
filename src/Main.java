@@ -298,8 +298,10 @@ public class Main {
 
         //ClosestNumber.closestNumbers(new ArrayList<>(Arrays.asList(2,3,4,5)));
 
-        Anagram.anagram("aaabbb");
+        //Anagram.anagram("aaabbb");
 
+        //System.out.println(SherlockAndArray.balancedSums(new ArrayList<>(Arrays.asList(2,0,0,0))));
+        System.out.println(SherlockAndArray.balancedSums(new ArrayList<>(Arrays.asList(1,2,3))));
 
 
 
