@@ -301,7 +301,11 @@ public class Main {
         //Anagram.anagram("aaabbb");
 
         //System.out.println(SherlockAndArray.balancedSums(new ArrayList<>(Arrays.asList(2,0,0,0))));
-        System.out.println(SherlockAndArray.balancedSums(new ArrayList<>(Arrays.asList(1,2,3))));
+        //System.out.println(SherlockAndArray.balancedSums(new ArrayList<>(Arrays.asList(1,2,3))));
+
+        //TheLoveLetterMystery.theLoveLetterMystery("abcd");
+
+        NonDivisibleSubset.nonDivisibleSubset(3,new ArrayList<>(Arrays.asList(1,7,2,4)));
 
 
 
