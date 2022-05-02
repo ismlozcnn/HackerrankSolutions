@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Main {
 
@@ -305,8 +306,11 @@ public class Main {
 
         //TheLoveLetterMystery.theLoveLetterMystery("abcd");
 
-        NonDivisibleSubset.nonDivisibleSubset(3,new ArrayList<>(Arrays.asList(1,7,2,4)));
+        //NonDivisibleSubset.nonDivisibleSubset(3,new ArrayList<>(Arrays.asList(1,7,2,4)));
 
+        List<Integer> a1=new ArrayList<>(Arrays.asList(2,4));
+        List<Integer> a2=new ArrayList<>(Arrays.asList(1,3));
+        System.out.println(PermutingTwoArrays.twoArrays(5,a1,a2));
 
 
     }
