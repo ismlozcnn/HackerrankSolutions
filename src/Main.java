@@ -308,9 +308,20 @@ public class Main {
 
         //NonDivisibleSubset.nonDivisibleSubset(3,new ArrayList<>(Arrays.asList(1,7,2,4)));
 
-        List<Integer> a1=new ArrayList<>(Arrays.asList(2,4));
+        /*List<Integer> a1=new ArrayList<>(Arrays.asList(2,4));
         List<Integer> a2=new ArrayList<>(Arrays.asList(1,3));
-        System.out.println(PermutingTwoArrays.twoArrays(5,a1,a2));
+        System.out.println(PermutingTwoArrays.twoArrays(5,a1,a2));*/
+
+        /*System.out.println(TwoCharacters.alternate("asdcbsdcagfsdbgdfanfghbsfdab"));
+        System.out.println(TwoCharacters.alternate("asvkugfiugsalddlasguifgukvsa"));
+        System.out.println(TwoCharacters.alternate("cwomzxmuelmangtosqkgfdqvkzdnxerhravxndvomhbokqmvsfcaddgxgwtpgpqrmeoxvkkjunkbjeyteccpugbkvhljxsshpoymkryydtmfhaogepvbwmypeiqumcibjskmsrpllgbvc"));
+*/
+
+        MakingAnagrams.makingAnagrams("absdjkvuahdakejfnfauhdsaavasdlkj","djfladfhiawasdkjvalskufhafablsdkashlahdfa");
+
+
+
+
 
 
     }
