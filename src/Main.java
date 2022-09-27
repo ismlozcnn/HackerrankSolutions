@@ -317,7 +317,11 @@ public class Main {
         System.out.println(TwoCharacters.alternate("cwomzxmuelmangtosqkgfdqvkzdnxerhravxndvomhbokqmvsfcaddgxgwtpgpqrmeoxvkkjunkbjeyteccpugbkvhljxsshpoymkryydtmfhaogepvbwmypeiqumcibjskmsrpllgbvc"));
 */
 
-        MakingAnagrams.makingAnagrams("absdjkvuahdakejfnfauhdsaavasdlkj","djfladfhiawasdkjvalskufhafablsdkashlahdfa");
+        //MakingAnagrams.makingAnagrams("absdjkvuahdakejfnfauhdsaavasdlkj","djfladfhiawasdkjvalskufhafablsdkashlahdfa");
+
+        //System.out.println(PalindromeIndex.palindromeIndex("quyjjdcgsvvsgcdjjyq"));
+
+        System.out.println(StringConstruction.stringConstruction("abab"));
 
 
 
