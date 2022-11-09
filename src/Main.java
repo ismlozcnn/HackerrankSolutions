@@ -321,8 +321,24 @@ public class Main {
 
         //System.out.println(PalindromeIndex.palindromeIndex("quyjjdcgsvvsgcdjjyq"));
 
-        System.out.println(StringConstruction.stringConstruction("abab"));
+        //System.out.println(StringConstruction.stringConstruction("abab"));
+       /* List<Integer> s1=new ArrayList<>(Arrays.asList(1,3));
+        List<Integer> s2=new ArrayList<>(Arrays.asList(10,5));
+        List<Integer> s3=new ArrayList<>(Arrays.asList(3,4));
+        List<List<Integer>> ak=new ArrayList<>();
+        ak.add(s1);
+        ak.add(s2);
+        ak.add(s3);
+        TruckTour.truckTour(ak);*/
 
+        List<List<Integer>> contents=Arrays.asList(
+                Arrays.asList(5,1),
+                Arrays.asList(2,1),
+                Arrays.asList(1,1),
+                Arrays.asList(8,1),
+                Arrays.asList(10,0),
+                Arrays.asList(5,0));
+        System.out.println(LuckBalance.luckBalance(3,contents));
 
 
 
