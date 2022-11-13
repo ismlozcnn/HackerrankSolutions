@@ -340,7 +340,9 @@ public class Main {
                 Arrays.asList(5,0));
         System.out.println(LuckBalance.luckBalance(3,contents));*/
 
-        System.out.println(MaximumPerimeterTriangle.maximumPerimeterTriangle(Arrays.asList(1,1,1,3,3)));
+        //System.out.println(MaximumPerimeterTriangle.maximumPerimeterTriangle(Arrays.asList(1,1,1,3,3)));
+
+        System.out.println(MarkAndToys.maximumToys(Arrays.asList(1,12,5,111,200,1000,10),50));
 
 
 
