@@ -331,14 +331,16 @@ public class Main {
         ak.add(s3);
         TruckTour.truckTour(ak);*/
 
-        List<List<Integer>> contents=Arrays.asList(
+        /*List<List<Integer>> contents=Arrays.asList(
                 Arrays.asList(5,1),
                 Arrays.asList(2,1),
                 Arrays.asList(1,1),
                 Arrays.asList(8,1),
                 Arrays.asList(10,0),
                 Arrays.asList(5,0));
-        System.out.println(LuckBalance.luckBalance(3,contents));
+        System.out.println(LuckBalance.luckBalance(3,contents));*/
+
+        System.out.println(MaximumPerimeterTriangle.maximumPerimeterTriangle(Arrays.asList(1,1,1,3,3)));
 
 
 
